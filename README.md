@@ -10,13 +10,9 @@ Each game is lightweight, written from scratch, and uses **basic C++ (with minim
 `cpp-games-collection/
 
 │── SnakeGame/        # Snake game source code 
-
 │── TicTacToe/        # (planned) Tic-Tac-Toe game 
-
 │── Pong/             # (planned) Pong game 
-
 │── README.md         # Project documentation`
-
 
 ##  Games Included
 
