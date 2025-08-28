@@ -58,7 +58,7 @@ Each game is lightweight, written from scratch, and uses **basic C++ (with minim
 
 ### 1. Clone the Repository
 
-`git clone https://github.com/your-username/cpp-games-collection.git cd cpp-games-collection`
+`git clone https://github.com/dev-anony/cpp-games-collection.git cd cpp-games-collection`
 
 ### 2. Compile a Game (Example: Snake)
 
