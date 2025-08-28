@@ -11,7 +11,7 @@ Each game is lightweight, written from scratch, and uses **basic C++ (with minim
 
 │── SnakeGame/        # Snake game source code 
 
-│── TicTacToe/        # (planned) Tic-Tac-Toe game 
+│── TicTacToe/        # Tic-Tac-Toe game 
 
 │── Pong/             # (planned) Pong game 
 
@@ -33,6 +33,24 @@ Each game is lightweight, written from scratch, and uses **basic C++ (with minim
 - Random food placement
 - Collision detection
 - Score tracking
+- Game Over screen
+
+---
+
+### 2. Tic Tac Toe with AI 
+
+- Play Tic Tac Toe against an AI opponent using the Minimax algorithm.
+- Board: 3x3 grid.
+- Player: X | AI: O.
+- The AI always tries to make the optimal move.
+
+ Implemented Features:
+
+- 3x3 Tic Tac Toe board
+- Human vs AI gameplay
+- Minimax algorithm for unbeatable AI
+- Input validation (avoids invalid or already occupied moves)
+- Winner detection (Player / AI / Draw)
 - Game Over screen
 
 ---
@@ -61,8 +79,7 @@ Each game is lightweight, written from scratch, and uses **basic C++ (with minim
 ---
 
 ##  Future Games Planned
-
-- Tic-Tac-Toe   
+ 
 - Pong
 - Minesweeper
 - Hangman
